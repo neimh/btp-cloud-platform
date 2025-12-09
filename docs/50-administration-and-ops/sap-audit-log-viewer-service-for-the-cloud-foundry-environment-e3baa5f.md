@@ -12,7 +12,7 @@ The UI allows you to:
 
 -   Filter the retrieved client-side chunk for certain strings.
 
--   Select which of the four audit log message categories to be returned. If you don't select any category, all are returned.
+-   Select which of the four audit log message categories are to be returned. If you don't select any category, all are returned.
 
 -   Download the audit logs in the selected time frame.
 
